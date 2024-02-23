@@ -1,0 +1,194 @@
+body {
+    background-color: white;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.secao1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0 20px 160px 20px;
+    gap: 110px;
+    color: #fff;
+    background-color: #404eed;
+    background-size: cover;
+    background-position: -350px;
+}
+
+.secao1 header {
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+   align-items: center;
+   width: 1200px;
+   padding: 25px 0px;
+}
+
+.secao1 header > a {
+    font: 700 14px 'Discord';
+    background-color: #fff;
+    color: #000;
+    padding: 10px 15px;
+    border-radius: 50px;
+}
+
+.secao1 header img {
+   width: 120px;
+}
+
+.secao1 header nav {
+   display: flex;
+   flex-direction: row;
+   gap: 40px;
+   font: 500 18px "discord-Semibold";
+}
+
+.secao1 main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+    width: 800px;
+}
+
+.secao1 main h1 {
+    text-align: center;
+    font: 700 56px 'discord-Bold';
+    text-transform: uppercase;
+}
+
+.secao1 main p {
+    text-align: center;
+    font: 300 20px 'discord-Normal';
+    line-height: 160%;
+    padding: 0px 10px;
+}
+
+.secao1 main div {
+    display: flex;
+    flex-direction: row;
+    gap: 25px;
+}
+
+.secao1 main div > :nth-child(1) {
+    display: flex;
+    align-items: center;
+    font: 400 20px 'discord-Normal';
+    background-color: #fff;
+    color: #000;
+    padding: 15px 30px;
+    border-radius: 50px;
+}
+
+.secao1 main div > :nth-child(2) {
+    font: 500 20px 'Discord';
+    background-color: #313338;
+    color: #fff;
+    padding: 15px 30px;
+    border-radius: 50px;
+}
+
+.secao2 {
+     display: flex;
+     flex-direction: row;
+     justify-content: center;
+     align-items: center;
+     gap: 100px;
+     padding: 120px 30px;
+     background-color: #fff;
+}
+
+.secao2 img {
+    width: 600px;
+}
+
+.secao2 > div {
+    display: flex;
+    flex-direction: column;
+    gap: 30;
+    width: 380px;
+}
+
+.secao2 h1 {
+    font-family: "discord-Bold";
+    font-size: 50px;
+    line-height: 110%;
+}
+
+.secao2 p {
+    font-family: "discord-Normal";
+    font-size: 23px;
+    line-height: 130%;
+}
+
+.secao3 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+    padding: 120px 30px;
+    background-color: #f6f6f6;
+}
+
+.secao3 > div {
+    display: flex;
+    flex-direction: column;
+    gap: 30;
+    width: 380px;
+}
+
+.secao3 h1 {
+    font-family: "discord-Bold";
+    font-size: 50px;
+    line-height: 110%;
+}
+
+.secao3 p {
+    font-family: "discord-Normal";
+    font-size: 23px;
+    line-height: 130%;
+}
+
+.secao3 img {
+    width: 600px;
+}
+
+.secao4 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+    padding: 120px 30px;
+    background-color: #fff;
+}
+
+.secao4 img {
+    width: 600px;
+}
+
+.secao4 > div {
+    display: flex;
+    flex-direction: column;
+    gap: 30;
+    width: 380px;
+}
+
+.secao4 h1 {
+    font-family: "discord-Bold";
+    font-size: 50px;
+    line-height: 110%;
+}
+
+.secao4 p {
+    font-family: "discord-Normal";
+    font-size: 23px;
+    line-height: 130%;
+}
+

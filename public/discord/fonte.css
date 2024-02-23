@@ -1,0 +1,24 @@
+@font-face {
+    font-family: "discord-Normal";
+    src:url(/fontes/discord-Normal.woff2);
+}
+
+@font-face {
+    font-family: "discord-Bold";
+    src: url(/fontes/discord-Bold.woff2);
+}
+
+@font-face {
+    font-family: "discord-extrabold";
+    src: url(/fontes/discord-extrabold.woff2);
+}
+
+@font-face {
+    font-family: "discord-Medium";
+    src: url(/fontes/discord-Medium);
+}
+
+@font-face {
+    font-family: "discord-Semibold";
+    src: url(/fontes/discord-Semibold);
+}

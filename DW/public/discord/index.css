@@ -1,0 +1,133 @@
+body {
+    background-color: white;
+}
+
+.secao1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0 20px 160px 20px;
+    gap: 110px;
+    color: white;
+    background-color: #5865f2;
+}
+
+.secao1 header {
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+   align-items: center;
+}
+
+header > img {
+   width: 120px;
+}
+
+.header > nav {
+   display: flex;
+   flex-grow: 1;
+   flex-direction: row;
+   gap: 24px;
+   font: 500 18px "discord-Semibold";
+}
+
+.secao2 {
+     display: flex;
+     flex-direction: row;
+     justify-content: center;
+     align-items: center;
+     gap: 100px;
+     padding: 120px 30px;
+     background-color: #fff;
+}
+
+.secao2 img {
+    width: 600px;
+}
+
+.secao2 > div {
+    display: flex;
+    flex-direction: column;
+    gap: 30;
+    width: 380px;
+}
+
+.secao2 h1 {
+    font-family: "discord-Bold";
+    font-size: 50px;
+    line-height: 110%;
+}
+
+.secao2 p {
+    font-family: "discord-Normal";
+    font-size: 23px;
+    line-height: 130%;
+}
+
+.secao3 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+    padding: 120px 30px;
+    background-color: #f6f6f6;
+}
+
+.secao3 > div {
+    display: flex;
+    flex-direction: column;
+    gap: 30;
+    width: 380px;
+}
+
+.secao3 h1 {
+    font-family: "discord-Bold";
+    font-size: 50px;
+    line-height: 110%;
+}
+
+.secao3 p {
+    font-family: "discord-Normal";
+    font-size: 23px;
+    line-height: 130%;
+}
+
+.secao3 img {
+    width: 600px;
+}
+
+.secao4 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+    padding: 120px 30px;
+    background-color: #fff;
+}
+
+.secao4 img {
+    width: 600px;
+}
+
+.secao4 > div {
+    display: flex;
+    flex-direction: column;
+    gap: 30;
+    width: 380px;
+}
+
+.secao4 h1 {
+    font-family: "discord-Bold";
+    font-size: 50px;
+    line-height: 110%;
+}
+
+.secao4 p {
+    font-family: "discord-Normal";
+    font-size: 23px;
+    line-height: 130%;
+}
+
